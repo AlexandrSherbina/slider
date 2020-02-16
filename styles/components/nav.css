@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+}
+.nav-item {
+      color: #fff;
+      padding-right: 30px;
+     
+      
+    }
+.nav-item:hover {
+      color: #a49481;
+      text-decoration: none;
+    }
+  
